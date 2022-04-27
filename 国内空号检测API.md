@@ -42,7 +42,7 @@
 | ------------ | -------------------------------- |-----------|--------|----|
 |account| 账号  | body | true |string  |    
 |password| 密码  | body | true |string  |    
-|phone| 检测号码（多个号码请用逗号隔开），最多支持一万个。  | body | false |string     |
+|phone| 检测号码（多个号码请用逗号隔开），最多支持一万个。  | body | true |string     |
 
 **请求示例**:
 
