@@ -304,7 +304,7 @@
 {
   "stateCode": "200",
   "stateMsg": "成功",
-  "data": "0"
+  "data": "13.92"
 }
 ```
 
