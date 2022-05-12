@@ -209,7 +209,7 @@
 | ------------ | ------------------|--------|----------- |
 |activeNum | 活跃号条数(个)   |integer(int64)  |    |
 |activeNumUrl | 活跃号条数包   |string  |    |
-|batchNo | 批次号-讯秒云   |string  |    |
+|batchNo | 批次号   |string  |    |
 |blankNum | 空号条数(个)   |integer(int64)  |    |
 |blankNumUrl | 空号条数包   |string  |    |
 |detectionNum | 检测条数(个)   |integer(int64)  |    |
